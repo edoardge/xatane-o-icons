@@ -20,3 +20,6 @@ oranchelo
 plataro
 
 shadow
+
+
+*There are three .tar files. Unpack them and get them to a folder named xatane-o.
